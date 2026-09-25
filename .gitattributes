@@ -1,0 +1,4 @@
+# Preserve release hashes on Windows checkouts.
+data/test/labels/*.txt text eol=lf
+# The blind scan lock hashes the exact bytes of this file.
+reports/BLIND_SCAN.md -text

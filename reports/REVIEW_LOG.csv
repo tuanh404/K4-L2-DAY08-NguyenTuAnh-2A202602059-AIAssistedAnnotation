@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0107.jpg,mép ảnh dưới,added,Thêm khung cho xe bị sót
+1,frame_0182.jpg,car39,edited,Chỉnh khung rộng hơn để vừa xe
+1,frame_0227.jpg,sau xe bên trái,deleted,AI gán 3 xe thành 1 box
